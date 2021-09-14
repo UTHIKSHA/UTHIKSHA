@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring the tech world and I'm pursuing my UG as ECE student in NITK,Surathkal 
 - 🌱 I’m currently learning Python and C Programming. Working on other passions simultaneously. 
 - 💞️ I’m looking to collaborate on Python programming and C programming projects as of now.
-- 📫 How to reach me - Text me on instagram @uthiksha or twitter @uthiksha.
+- 📫 
 
 <!---
 UTHIKSHA/UTHIKSHA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
